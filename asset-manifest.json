@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FrontReact/static/css/main.f9dc1378.css",
+    "main.js": "/FrontReact/static/js/main.19d0f822.js",
+    "index.html": "/FrontReact/index.html",
+    "main.f9dc1378.css.map": "/FrontReact/static/css/main.f9dc1378.css.map",
+    "main.19d0f822.js.map": "/FrontReact/static/js/main.19d0f822.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f9dc1378.css",
+    "static/js/main.19d0f822.js"
+  ]
+}
